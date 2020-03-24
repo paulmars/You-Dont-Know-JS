@@ -10,7 +10,7 @@
 
 -----
 
-**[Purchase digital/print copy from O'Reilly](http://shop.oreilly.com/product/0636920039303.do)**
+**[Purchase digital/print copy from O'Reilly](https://www.oreilly.com/content/you-dont-know-js-up-going/)**
 
 -----
 
